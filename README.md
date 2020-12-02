@@ -4,7 +4,7 @@ Here, you can find some of the mini-projects that I have completed in both __cod
 
 #### :open_file_folder: Project Display
 * [Talculator Website](https://talculator-2020.herokuapp.com/) (11/2020) - Back-end and Front-end Developer
-* Flpkart Workflow (09/2020) - Robotic Process Automation Developer
+* Flipkart Workflow (09/2020) - Robotic Process Automation Developer
 * [Talculator Mobile Application](https://play.google.com/store/apps/details?id=com.appticlynx.talculator) (08/2020) - Software Programmer
 
 #### :phone: You can reach me at: 
