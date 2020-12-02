@@ -8,6 +8,6 @@ Here, you can find some of the mini-projects that I have completed in both __cod
 * [Talculator Mobile Application](https://play.google.com/store/apps/details?id=com.appticlynx.talculator) (08/2020) - Software Programmer
 
 #### You can reach me at: 
-* [My LinkedIn Profile](https://www.linkedin.com/in/gracelyn-mystica-a-37ba7a179/)
+* [LinkedIn Profile](https://www.linkedin.com/in/gracelyn-mystica-a-37ba7a179/)
 * [LeetCode Profile](https://leetcode.com/Gracelyn-Mystica/)
 * [TechGig Profile](https://www.techgig.com/gracelynmysticaantony)
