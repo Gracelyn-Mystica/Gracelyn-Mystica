@@ -3,7 +3,7 @@ I'm a Full Stack Developer and a Robotic Process Automation Developer.
 Here, you can find some of the mini-projects that I have completed in both __coding__ and __web development__.
 
 #### Project Display
-* [ToDoList](https://github.com/Gracelyn-Mystica/ToDoList) (12/2020) - Full Stack Developer
+* ToDoList (12/2020) - Full Stack Developer
 * [Talculator Website](https://talculator-2020.herokuapp.com/) (11/2020) - Back-end and Front-end Developer
 * Flipkart Workflow (09/2020) - Robotic Process Automation Developer
 * [Talculator Mobile Application](https://play.google.com/store/apps/details?id=com.appticlynx.talculator) (08/2020) - Software Programmer
