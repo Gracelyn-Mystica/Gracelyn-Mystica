@@ -8,4 +8,4 @@ Software Developer with 2+ years of experience in designing innovative solutions
 
 ### :briefcase:To know more, make sure to check my following accounts too!
 * [LeetCode Profile](https://leetcode.com/Gracelyn-Mystica/)
-* [LinkedIn Profile] (https://www.linkedin.com/in/gracelyn-mystica-a-37ba7a179/)
+* [LinkedIn Profile](https://www.linkedin.com/in/gracelyn-mystica-a-37ba7a179/)
